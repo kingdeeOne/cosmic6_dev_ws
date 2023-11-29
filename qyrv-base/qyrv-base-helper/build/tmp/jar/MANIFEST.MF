@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Jar-Id: 
+Project-Name: qyrv-base-helper
+Build-Tool: Gradle 7.5
+Build-Date: 2023-11-28 10:00:56
+Built-By: Kingdee Cosmic Developer Tools
+Build-Num: 20231128100056161
+App-Name: 
+Git-Branch: 
+Cloud-Name: 
+Group-Name: qyrv.cosmic
+Bundle-Version: 1.0.0
+Git-Commit-Hash: 
+Build-Image: 
+Build-Jdk: 1.8.0_31
+
